@@ -2596,4 +2596,23 @@ footer .copyright span:last-child::after {
 	background: #000000;
 }
 
+
+
 /*# sourceMappingURL=main.css.map */
+
+/* Me class */
+.cv-download{
+	display: inline-flex;
+	width:80vw;
+	margin-right:10vw;
+	margin-left: 10vw;
+	
+}
+
+@media only screen and (max-width:630px){
+	.cv-download{
+		display: inline-block;
+		width:80vw;
+	
+	}
+}
